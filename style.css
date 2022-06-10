@@ -164,4 +164,15 @@ h3 {
 .hidden {
   display: none;
 }
+
+@media screen and (max-width: 375px) {
+  .component {
+    width: 327px;
+    height: 360px;
+  }
+  .thank-you {
+    width: 327px;
+    height: 360px;
+  }
+}
 /*# sourceMappingURL=style.css.map */
